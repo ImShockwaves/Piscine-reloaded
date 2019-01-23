@@ -1,4 +1,4 @@
-<h1 align=center>Piscine-reloaded</h1>
+<h1 align=center>Get-next-line</h1>
 <h3>Beginning exercises from 42 piscine C.</h3>
 
 <p align=center float="left">
